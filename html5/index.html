@@ -20,14 +20,22 @@
         span,#show{
             color:red;
         }
+        span {display:-moz-inline-box; display:inline-block; width:150px;}
+        #clatitude,#clongitude,#slatitude,#slongitude{
+            color:green;
+        }
+        #que{
+            margin-left: 200px;
+        }
     </style>
 </head>
 <body style="padding:0; margin: 0; background: #000;">
 <div id="baiDu">
     <div id="show">
-        纬度：<span id="latitude"></span><br />
-        经度：<span id="longitude"></span><br />
+        所在纬度：<span id="clatitude"></span>设定纬度：<span id="slatitude"></span><br />
+        所在经度：<span id="clongitude"></span>设定经度：<span id="slongitude"></span><br />
         <input type="button"  style="color:red;", value="返回" onclick="back()" />
+        <input type="button" id="que"  style="color:red;", value="确认" onclick="back()" />
     </div>
     <div id="map_canvas" style="width:500px; height:500px;"></div>
 </div>
