@@ -17,14 +17,17 @@
             -khtml-user-select: none;
             -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
         }
+        span,#show{
+            color:red;
+        }
     </style>
 </head>
-<body id="zhengti" style="padding:0; margin: 0; background: #000;">
+<body style="padding:0; margin: 0; background: #000;">
 <div id="baiDu">
     <div id="show">
         纬度：<span id="latitude"></span><br />
         经度：<span id="longitude"></span><br />
-        <input type="button" value="返回" onclick="back()" />
+        <input type="button"  style="color:red;", value="返回" onclick="back()" />
     </div>
     <div id="map_canvas" style="width:500px; height:500px;"></div>
 </div>
@@ -32,13 +35,11 @@
 <script>
     var bai_du_map=document.getElementById("baiDu");
     var canv=document.getElementById("gameCanvas");
-    var bei_jing=document.getElementById("zhengti");
     bai_du_map.style.display="none";
     function back()
     {
         bai_du_map.style.display="none";
         canv.style.display="";
-        bei_jing.style.background="#000";
     }
 </script>
 <script type="text/javascript" src="http://api.map.baidu.com/api?v=1.5&ak=8827ee39511568ac0705d037d67b2624"></script>
