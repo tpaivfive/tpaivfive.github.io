@@ -23,6 +23,25 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
+			<key>cao.png</key>
+			<dict>
+				<key>width</key>
+				<integer>308</integer>
+				<key>height</key>
+				<integer>88</integer>
+				<key>originalWidth</key>
+				<integer>308</integer>
+				<key>originalHeight</key>
+				<integer>88</integer>
+				<key>x</key>
+				<integer>0</integer>
+				<key>y</key>
+				<integer>466</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
 		</dict>
 		<key>metadata</key>
 		<dict>
