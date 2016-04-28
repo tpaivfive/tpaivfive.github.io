@@ -266,8 +266,19 @@
             </sources>
             <sources dir="${basedir}">
                 <file name="src/getMap.js"/>
+                <file name="src/ChangLiang.js"/>
                 <file name="src/resource.js"/>
                 <file name="src/MainScene.js"/>
+                <file name="src/KaPian/ZhiJian.js"/>
+                <file name="src/KaPian/HuoQiu.js"/>
+                <file name="src/KaPian/BingQiang.js"/>
+                <file name="src/KaPian/TianFa.js"/>
+                <file name="src/KaPian/ChongNengGuoDu.js"/>
+                <file name="src/KaPian/DiShiYanMo.js"/>
+                <file name="src/KaPian/GaoSuYinChang.js"/>
+                <file name="src/KaPian/GuoRe.js"/>
+                <file name="src/KaPian/MengJi.js"/>
+                <file name="src/KaPian/MoLiHongLiu.js"/>
                 <file name="src/FightScene.js"/>
                 <file name="main.js"/>
 
