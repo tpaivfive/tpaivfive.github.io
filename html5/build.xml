@@ -279,6 +279,9 @@
                 <file name="src/KaPian/GuoRe.js"/>
                 <file name="src/KaPian/MengJi.js"/>
                 <file name="src/KaPian/MoLiHongLiu.js"/>
+                <file name="src/KaPian/GaoLiDai.js"/>
+                <file name="src/KaPian/DianRan.js"/>
+                <file name="src/KaPian/BaoRan.js"/>
                 <file name="src/FightScene.js"/>
                 <file name="main.js"/>
 
