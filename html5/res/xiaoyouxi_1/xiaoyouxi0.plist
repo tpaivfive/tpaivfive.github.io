@@ -4,6 +4,82 @@
 	<dict>
 		<key>frames</key>
 		<dict>
+			<key>cheng.png</key>
+			<dict>
+				<key>width</key>
+				<integer>136</integer>
+				<key>height</key>
+				<integer>136</integer>
+				<key>originalWidth</key>
+				<integer>136</integer>
+				<key>originalHeight</key>
+				<integer>136</integer>
+				<key>x</key>
+				<integer>0</integer>
+				<key>y</key>
+				<integer>0</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>chu.png</key>
+			<dict>
+				<key>width</key>
+				<integer>136</integer>
+				<key>height</key>
+				<integer>135</integer>
+				<key>originalWidth</key>
+				<integer>136</integer>
+				<key>originalHeight</key>
+				<integer>135</integer>
+				<key>x</key>
+				<integer>138</integer>
+				<key>y</key>
+				<integer>0</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>jia.png</key>
+			<dict>
+				<key>width</key>
+				<integer>135</integer>
+				<key>height</key>
+				<integer>137</integer>
+				<key>originalWidth</key>
+				<integer>135</integer>
+				<key>originalHeight</key>
+				<integer>137</integer>
+				<key>x</key>
+				<integer>276</integer>
+				<key>y</key>
+				<integer>0</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>jian.png</key>
+			<dict>
+				<key>width</key>
+				<integer>136</integer>
+				<key>height</key>
+				<integer>137</integer>
+				<key>originalWidth</key>
+				<integer>136</integer>
+				<key>originalHeight</key>
+				<integer>137</integer>
+				<key>x</key>
+				<integer>413</integer>
+				<key>y</key>
+				<integer>0</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
 			<key>xiaoyouxi.jpg</key>
 			<dict>
 				<key>width</key>
@@ -17,7 +93,26 @@
 				<key>x</key>
 				<integer>0</integer>
 				<key>y</key>
-				<integer>0</integer>
+				<integer>139</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>D:/Programming/Cocos Studio/EditorDefaultRes/GUI/button.png</key>
+			<dict>
+				<key>width</key>
+				<integer>103</integer>
+				<key>height</key>
+				<integer>40</integer>
+				<key>originalWidth</key>
+				<integer>103</integer>
+				<key>originalHeight</key>
+				<integer>40</integer>
+				<key>x</key>
+				<integer>582</integer>
+				<key>y</key>
+				<integer>139</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>

@@ -269,6 +269,7 @@
                 <file name="src/ChangLiang.js"/>
                 <file name="src/resource.js"/>
                 <file name="src/MainScene.js"/>
+                <file name="src/QiangHuaScene.js"/>
                 <file name="src/KaPian/ZhiJian.js"/>
                 <file name="src/KaPian/HuoQiu.js"/>
                 <file name="src/KaPian/BingQiang.js"/>
