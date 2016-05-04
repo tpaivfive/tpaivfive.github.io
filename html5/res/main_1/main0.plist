@@ -4,44 +4,6 @@
 	<dict>
 		<key>frames</key>
 		<dict>
-			<key>D:/Programming/Cocos Studio/EditorDefaultRes/GUI/button.png</key>
-			<dict>
-				<key>width</key>
-				<integer>103</integer>
-				<key>height</key>
-				<integer>40</integer>
-				<key>originalWidth</key>
-				<integer>103</integer>
-				<key>originalHeight</key>
-				<integer>40</integer>
-				<key>x</key>
-				<integer>0</integer>
-				<key>y</key>
-				<integer>0</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
-			<key>back.jpg</key>
-			<dict>
-				<key>width</key>
-				<integer>372</integer>
-				<key>height</key>
-				<integer>220</integer>
-				<key>originalWidth</key>
-				<integer>372</integer>
-				<key>originalHeight</key>
-				<integer>220</integer>
-				<key>x</key>
-				<integer>105</integer>
-				<key>y</key>
-				<integer>0</integer>
-				<key>offsetX</key>
-				<real>0</real>
-				<key>offsetY</key>
-				<real>0</real>
-			</dict>
 			<key>+.png</key>
 			<dict>
 				<key>width</key>
@@ -53,7 +15,7 @@
 				<key>originalHeight</key>
 				<integer>224</integer>
 				<key>x</key>
-				<integer>479</integer>
+				<integer>0</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -72,9 +34,123 @@
 				<key>originalHeight</key>
 				<integer>200</integer>
 				<key>x</key>
-				<integer>719</integer>
+				<integer>240</integer>
 				<key>y</key>
 				<integer>0</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>back.jpg</key>
+			<dict>
+				<key>width</key>
+				<integer>372</integer>
+				<key>height</key>
+				<integer>220</integer>
+				<key>originalWidth</key>
+				<integer>372</integer>
+				<key>originalHeight</key>
+				<integer>220</integer>
+				<key>x</key>
+				<integer>442</integer>
+				<key>y</key>
+				<integer>0</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>jiantou.png</key>
+			<dict>
+				<key>width</key>
+				<integer>154</integer>
+				<key>height</key>
+				<integer>138</integer>
+				<key>originalWidth</key>
+				<integer>154</integer>
+				<key>originalHeight</key>
+				<integer>138</integer>
+				<key>x</key>
+				<integer>816</integer>
+				<key>y</key>
+				<integer>0</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>工作区.png</key>
+			<dict>
+				<key>width</key>
+				<integer>300</integer>
+				<key>height</key>
+				<integer>213</integer>
+				<key>originalWidth</key>
+				<integer>300</integer>
+				<key>originalHeight</key>
+				<integer>213</integer>
+				<key>x</key>
+				<integer>0</integer>
+				<key>y</key>
+				<integer>226</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>自宅.png</key>
+			<dict>
+				<key>width</key>
+				<integer>300</integer>
+				<key>height</key>
+				<integer>173</integer>
+				<key>originalWidth</key>
+				<integer>300</integer>
+				<key>originalHeight</key>
+				<integer>173</integer>
+				<key>x</key>
+				<integer>302</integer>
+				<key>y</key>
+				<integer>226</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>野外.png</key>
+			<dict>
+				<key>width</key>
+				<integer>250</integer>
+				<key>height</key>
+				<integer>310</integer>
+				<key>originalWidth</key>
+				<integer>250</integer>
+				<key>originalHeight</key>
+				<integer>310</integer>
+				<key>x</key>
+				<integer>604</integer>
+				<key>y</key>
+				<integer>226</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>D:/Programming/Cocos Studio/EditorDefaultRes/GUI/button.png</key>
+			<dict>
+				<key>width</key>
+				<integer>103</integer>
+				<key>height</key>
+				<integer>40</integer>
+				<key>originalWidth</key>
+				<integer>103</integer>
+				<key>originalHeight</key>
+				<integer>40</integer>
+				<key>x</key>
+				<integer>856</integer>
+				<key>y</key>
+				<integer>226</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
