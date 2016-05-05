@@ -25,7 +25,10 @@
             color:green;
         }
         #que{
-            margin-left: 200px;
+            margin-left: 50px;
+        }
+        #fan{
+            margin-left: 50px;
         }
     </style>
 </head>
@@ -35,6 +38,11 @@
         所在纬度：<span id="clatitude"></span>设定纬度：<span id="slatitude"></span><br />
         所在经度：<span id="clongitude"></span>设定经度：<span id="slongitude"></span><br />
         <input type="button"  style="color:red;", value="返回" onclick="back()" />
+        <select name="选择设置地点" id="fan">
+            <option value="浏览模式" selected="selected">浏览模式</option>
+            <option value="自宅">自宅</option>
+            <option value="魔法公会">魔法公会</option>
+        </select>
         <input type="button" id="que"  style="color:red;", value="确认" onclick="getSheDing()" />
     </div>
     <div id="map_canvas" style="width:500px; height:500px;"></div>
@@ -65,14 +73,22 @@
         {
             alert("请点击地图进行地点选择");
         }
+        else if(document.getElementById("fan").value=="浏览模式")
+        {
+            alert("请选择你要设置的地点");
+        }
         else {
-            bai_du_map.style.display="none";
-            canv.style.display="";
             jing.innerHTML=my_longitude.innerHTML;
             wei.innerHTML=my_latitude.innerHTML;
             my_longitude.innerHTML="";
             my_latitude.innerHTML="";
-            zhu_jie_mian.sheDing();
+            if(document.getElementById("fan").value=="自宅")
+                zhu_jie_mian.sheDingZiZhai();
+            else if(document.getElementById("fan").value=="魔法公会")
+            {
+                zhu_jie_mian.sheDingGongHui();
+            }
+            lodeSupport3();
         }
     }
 </script>
