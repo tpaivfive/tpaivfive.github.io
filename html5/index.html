@@ -20,9 +20,9 @@
         span,#show{
             color:red;
         }
-        span {display:-moz-inline-box; display:inline-block; width:80px;}
+        span {display:-moz-inline-box; display:inline-block; width:0px;}
         #clatitude,#clongitude,#slatitude,#slongitude{
-            color:green;
+            color:black;
         }
         #que{
             margin-left: 50px;
@@ -35,8 +35,8 @@
 <body style="padding:0; margin: 0; background: #000;">
 <div id="baiDu">
     <div id="show">
-        所在纬度：<span id="clatitude"></span>设定纬度：<span id="slatitude"></span><br />
-        所在经度：<span id="clongitude"></span>设定经度：<span id="slongitude"></span><br />
+        <span id="clatitude"></span><span id="slatitude"></span>
+        <span id="clongitude"></span><span id="slongitude"></span>
         <input type="button"  style="color:red;", value="返回" onclick="back()" />
         <select name="选择设置地点" id="fan">
             <option value="浏览模式" selected="selected">浏览模式</option>
@@ -65,6 +65,7 @@
         canv.style.display="";
         my_longitude.innerHTML="";
         my_latitude.innerHTML="";
+        zhu_jie_mian.updateMess();
         zhu_jie_mian.huiFu();
     }
     function getSheDing()
