@@ -266,6 +266,7 @@
             </sources>
             <sources dir="${basedir}">
                 <file name="src/getMap.js"/>
+                <file name="src/MoFaScene.js"/>
                 <file name="src/ChangLiang.js"/>
                 <file name="src/resource.js"/>
                 <file name="src/DiRen/JiXieYiLong.js"/>
