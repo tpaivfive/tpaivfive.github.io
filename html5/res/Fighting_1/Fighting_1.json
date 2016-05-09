@@ -13,7 +13,7 @@
   "texturesPng": [
     "防御.png",
     "GUI/loadingbar.png",
-    "JiXieYiLong.png",
+    "喷？龙.png",
     "攻击.png",
     "fight.jpg",
     "确定.png",
@@ -504,7 +504,7 @@
           "customProperty": "",
           "flipX": false,
           "flipY": false,
-          "height": 337,
+          "height": 2107,
           "ignoreSize": true,
           "layoutParameter": null,
           "opacity": 255,
@@ -512,8 +512,8 @@
           "positionPercentY": 0.6845703,
           "positionType": 0,
           "rotation": 0,
-          "scaleX": 0.770654559,
-          "scaleY": 0.832527339,
+          "scaleX": 0.138735637,
+          "scaleY": 0.125360742,
           "sizePercentX": 0.52734375,
           "sizePercentY": 0.329101563,
           "sizeType": 0,
@@ -521,7 +521,7 @@
           "touchAble": false,
           "useMergedTexture": false,
           "visible": true,
-          "width": 405,
+          "width": 2168,
           "x": 608,
           "y": 701,
           "capInsetsHeight": 1,
@@ -530,13 +530,13 @@
           "capInsetsY": 0,
           "fileName": null,
           "fileNameData": {
-            "path": "JiXieYiLong.png",
+            "path": "喷？龙.png",
             "plistFile": "",
             "resourceType": 0
           },
           "scale9Enable": false,
-          "scale9Height": 337,
-          "scale9Width": 405
+          "scale9Height": 2107,
+          "scale9Width": 2168
         }
       },
       {
@@ -762,7 +762,7 @@
           "ignoreSize": true,
           "layoutParameter": null,
           "opacity": 255,
-          "positionPercentX": 0.280598968,
+          "positionPercentX": 0.2799479,
           "positionPercentY": 0.655273438,
           "positionType": 0,
           "rotation": 0,
