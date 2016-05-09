@@ -267,12 +267,14 @@
             <sources dir="${basedir}">
                 <file name="src/getMap.js"/>
                 <file name="src/MoFaScene.js"/>
+                <file name="src/TalkScene.js"/>
                 <file name="src/WuPinScene.js"/>
                 <file name="src/ChangLiang.js"/>
                 <file name="src/resource.js"/>
                 <file name="src/DiRen/JiXieYiLong.js"/>
                 <file name="src/RenWu/ZhuJue.js"/>
                 <file name="src/ShiJian/ZiZhai.js"/>
+                <file name="src/ShiJian/DaiChuLi.js"/>
                 <file name="src/ShiJian/ShuiJiao.js"/>
                 <file name="src/MainScene.js"/>
                 <file name="src/QiangHuaScene.js"/>
