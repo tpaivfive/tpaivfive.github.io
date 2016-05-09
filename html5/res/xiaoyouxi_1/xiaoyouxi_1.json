@@ -12,10 +12,7 @@
   "textures": [],
   "texturesPng": [
     "button.png",
-    "jia.png",
-    "jian.png",
-    "cheng.png",
-    "chu.png",
+    "GUI/image.png",
     "xiaoyouxi.jpg"
   ],
   "version": "1.6.0.0",
@@ -52,8 +49,8 @@
           "rotation": 0,
           "scaleX": 2,
           "scaleY": 2,
-          "sizePercentX": 0.260416657,
-          "sizePercentY": 0.078125,
+          "sizePercentX": 0.134114578,
+          "sizePercentY": 0.0390625,
           "sizeType": 0,
           "tag": 47,
           "touchAble": true,
@@ -115,7 +112,7 @@
           "customProperty": "",
           "flipX": false,
           "flipY": false,
-          "height": 137,
+          "height": 80,
           "ignoreSize": true,
           "layoutParameter": null,
           "opacity": 255,
@@ -132,7 +129,7 @@
           "touchAble": false,
           "useMergedTexture": false,
           "visible": true,
-          "width": 135,
+          "width": 80,
           "x": 257,
           "y": 83,
           "capInsetsHeight": 1,
@@ -141,13 +138,13 @@
           "capInsetsY": 0,
           "fileName": null,
           "fileNameData": {
-            "path": "jia.png",
+            "path": "GUI/image.png",
             "plistFile": "",
             "resourceType": 0
           },
           "scale9Enable": false,
-          "scale9Height": 137,
-          "scale9Width": 135
+          "scale9Height": 80,
+          "scale9Width": 80
         }
       },
       {
@@ -169,7 +166,7 @@
           "customProperty": "",
           "flipX": false,
           "flipY": false,
-          "height": 137,
+          "height": 80,
           "ignoreSize": true,
           "layoutParameter": null,
           "opacity": 255,
@@ -186,7 +183,7 @@
           "touchAble": false,
           "useMergedTexture": false,
           "visible": true,
-          "width": 136,
+          "width": 80,
           "x": 439,
           "y": 83,
           "capInsetsHeight": 1,
@@ -195,13 +192,13 @@
           "capInsetsY": 0,
           "fileName": null,
           "fileNameData": {
-            "path": "jian.png",
+            "path": "GUI/image.png",
             "plistFile": "",
             "resourceType": 0
           },
           "scale9Enable": false,
-          "scale9Height": 137,
-          "scale9Width": 136
+          "scale9Height": 80,
+          "scale9Width": 80
         }
       },
       {
@@ -223,7 +220,7 @@
           "customProperty": "",
           "flipX": false,
           "flipY": false,
-          "height": 136,
+          "height": 80,
           "ignoreSize": true,
           "layoutParameter": null,
           "opacity": 255,
@@ -240,7 +237,7 @@
           "touchAble": false,
           "useMergedTexture": false,
           "visible": true,
-          "width": 136,
+          "width": 80,
           "x": 72,
           "y": 946,
           "capInsetsHeight": 1,
@@ -249,13 +246,13 @@
           "capInsetsY": 0,
           "fileName": null,
           "fileNameData": {
-            "path": "cheng.png",
+            "path": "GUI/image.png",
             "plistFile": "",
             "resourceType": 0
           },
           "scale9Enable": false,
-          "scale9Height": 136,
-          "scale9Width": 136
+          "scale9Height": 80,
+          "scale9Width": 80
         }
       },
       {
@@ -277,7 +274,7 @@
           "customProperty": "",
           "flipX": false,
           "flipY": false,
-          "height": 135,
+          "height": 80,
           "ignoreSize": true,
           "layoutParameter": null,
           "opacity": 255,
@@ -294,7 +291,7 @@
           "touchAble": false,
           "useMergedTexture": false,
           "visible": true,
-          "width": 136,
+          "width": 80,
           "x": 439,
           "y": 946,
           "capInsetsHeight": 1,
@@ -303,13 +300,13 @@
           "capInsetsY": 0,
           "fileName": null,
           "fileNameData": {
-            "path": "chu.png",
+            "path": "GUI/image.png",
             "plistFile": "",
             "resourceType": 0
           },
           "scale9Enable": false,
-          "scale9Height": 135,
-          "scale9Width": 136
+          "scale9Height": 80,
+          "scale9Width": 80
         }
       },
       {
@@ -331,7 +328,7 @@
           "customProperty": "",
           "flipX": false,
           "flipY": false,
-          "height": 136,
+          "height": 80,
           "ignoreSize": true,
           "layoutParameter": null,
           "opacity": 255,
@@ -348,7 +345,7 @@
           "touchAble": false,
           "useMergedTexture": false,
           "visible": true,
-          "width": 136,
+          "width": 80,
           "x": 72,
           "y": 83,
           "capInsetsHeight": 1,
@@ -357,13 +354,13 @@
           "capInsetsY": 0,
           "fileName": null,
           "fileNameData": {
-            "path": "cheng.png",
+            "path": "GUI/image.png",
             "plistFile": "",
             "resourceType": 0
           },
           "scale9Enable": false,
-          "scale9Height": 136,
-          "scale9Width": 136
+          "scale9Height": 80,
+          "scale9Width": 80
         }
       },
       {
@@ -385,7 +382,7 @@
           "customProperty": "",
           "flipX": false,
           "flipY": false,
-          "height": 137,
+          "height": 80,
           "ignoreSize": true,
           "layoutParameter": null,
           "opacity": 255,
@@ -402,7 +399,7 @@
           "touchAble": false,
           "useMergedTexture": false,
           "visible": true,
-          "width": 135,
+          "width": 80,
           "x": 257,
           "y": 946,
           "capInsetsHeight": 1,
@@ -411,13 +408,13 @@
           "capInsetsY": 0,
           "fileName": null,
           "fileNameData": {
-            "path": "jia.png",
+            "path": "GUI/image.png",
             "plistFile": "",
             "resourceType": 0
           },
           "scale9Enable": false,
-          "scale9Height": 137,
-          "scale9Width": 135
+          "scale9Height": 80,
+          "scale9Width": 80
         }
       },
       {
@@ -1253,8 +1250,8 @@
               "rotation": 0,
               "scaleX": 2,
               "scaleY": 2,
-              "sizePercentX": 0.2610966,
-              "sizePercentY": 0.078125,
+              "sizePercentX": 0.134464756,
+              "sizePercentY": 0.0390625,
               "sizeType": 0,
               "tag": 267,
               "touchAble": true,
