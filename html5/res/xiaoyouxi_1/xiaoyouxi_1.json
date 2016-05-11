@@ -457,7 +457,7 @@
               "touchAble": false,
               "useMergedTexture": false,
               "visible": true,
-              "width": 360,
+              "width": 400,
               "x": 206,
               "y": 947,
               "areaHeight": 0,
@@ -466,7 +466,7 @@
               "fontName": "微软雅黑",
               "fontSize": 60,
               "hAlignment": 0,
-              "text": "消耗加之符石",
+              "text": "消耗符石(迸发)",
               "touchScaleEnable": false,
               "vAlignment": 0
             }
@@ -507,7 +507,7 @@
               "touchAble": false,
               "useMergedTexture": false,
               "visible": true,
-              "width": 360,
+              "width": 400,
               "x": 206,
               "y": 847,
               "areaHeight": 0,
@@ -516,7 +516,7 @@
               "fontName": "微软雅黑",
               "fontSize": 60,
               "hAlignment": 0,
-              "text": "消耗减之符石",
+              "text": "消耗符石(吸收)",
               "touchScaleEnable": false,
               "vAlignment": 0
             }
@@ -557,7 +557,7 @@
               "touchAble": false,
               "useMergedTexture": false,
               "visible": true,
-              "width": 360,
+              "width": 400,
               "x": 206,
               "y": 747,
               "areaHeight": 0,
@@ -566,7 +566,7 @@
               "fontName": "微软雅黑",
               "fontSize": 60,
               "hAlignment": 0,
-              "text": "消耗乘之符石",
+              "text": "消耗符石(烈焰)",
               "touchScaleEnable": false,
               "vAlignment": 0
             }
@@ -607,7 +607,7 @@
               "touchAble": false,
               "useMergedTexture": false,
               "visible": true,
-              "width": 360,
+              "width": 400,
               "x": 206,
               "y": 647,
               "areaHeight": 0,
@@ -616,7 +616,7 @@
               "fontName": "微软雅黑",
               "fontSize": 60,
               "hAlignment": 0,
-              "text": "消耗除之符石",
+              "text": "消耗符石(洪水)",
               "touchScaleEnable": false,
               "vAlignment": 0
             }
