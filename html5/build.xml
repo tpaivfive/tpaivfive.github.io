@@ -256,21 +256,22 @@
                 <file name="extensions/spine/CCSkeleton.js"/>
                 <file name="extensions/spine/CCSkeletonAnimation.js"/>
                 <file name="extensions/ccpool/CCPool.js"/>
-                <file name="cocos2d/physics/CCPhysicsSprite.js"/>
-                <file name="cocos2d/physics/CCPhysicsDebugNode.js"/>
-                <file name="external/box2d/box2d.js"/>
-                <file name="external/chipmunk/chipmunk.js"/>
-                <file name="external/socketio/socket.io.min.js"/>
-                <file name="external/pluginx/Plugin.js"/>
 
             </sources>
             <sources dir="${basedir}">
                 <file name="src/getMap.js"/>
                 <file name="src/MoFaScene.js"/>
+                <file name="src/JiNengScene.js"/>
                 <file name="src/TalkScene.js"/>
                 <file name="src/WuPinScene.js"/>
                 <file name="src/ChangLiang.js"/>
                 <file name="src/resource.js"/>
+                <file name="src/JiNeng/PuTongShouXu.js"/>
+                <file name="src/JiNeng/PuTongZhongLi.js"/>
+                <file name="src/JiNeng/PuTongHunLuan.js"/>
+                <file name="src/JiNeng/TeShu.js"/>
+                <file name="src/JiNeng/MoFa.js"/>
+                <file name="src/JiNeng/ShengHuo.js"/>
                 <file name="src/DuiHua/KaiChang.js"/>
                 <file name="src/DiRen/JiXieYiLong.js"/>
                 <file name="src/RenWu/ZhuJue.js"/>
