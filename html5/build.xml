@@ -272,6 +272,10 @@
                 <file name="src/JiNeng/TeShu.js"/>
                 <file name="src/JiNeng/MoFa.js"/>
                 <file name="src/JiNeng/ShengHuo.js"/>
+                <file name="src/JiNeng/ZhanDou.js"/>
+                <file name="src/ZhanDouJiNeng/ManHuangZhiLi.js"/>
+                <file name="src/ZhanDouJiNeng/ShengShengBuXi.js"/>
+                <file name="src/ZhanDouJiNeng/XiShuiChangLiu.js"/>
                 <file name="src/DuiHua/KaiChang.js"/>
                 <file name="src/DiRen/JiXieYiLong.js"/>
                 <file name="src/RenWu/ZhuJue.js"/>
