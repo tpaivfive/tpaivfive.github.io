@@ -42,7 +42,7 @@
         <select name="选择设置地点" id="fan">
             <option value="浏览模式" selected="selected">浏览模式</option>
             <option value="自宅">自宅</option>
-            <option value="魔法公会">魔法公会</option>
+            <option value="工作地">工作地</option>
         </select>
         <input type="button" id="que"  style="color:red;", value="确认" onclick="getSheDing()" />
     </div>
@@ -87,7 +87,7 @@
             my_latitude.innerHTML="";
             if(document.getElementById("fan").value=="自宅")
                 zhu_jie_mian.sheDingZiZhai();
-            else if(document.getElementById("fan").value=="魔法公会")
+            else if(document.getElementById("fan").value=="工作地")
             {
                 zhu_jie_mian.sheDingGongHui();
             }
