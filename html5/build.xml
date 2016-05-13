@@ -282,6 +282,14 @@
                 <file name="src/ShiJian/ZiZhai.js"/>
                 <file name="src/ShiJian/DaiChuLi.js"/>
                 <file name="src/ShiJian/ShuiJiao.js"/>
+                <file name="src/ShiJian/YueDu.js"/>
+                <file name="src/ShiJian/JinShi.js"/>
+                <file name="src/ShiJian/XianGuang.js"/>
+                <file name="src/ShiJian/ZhiZuo.js"/>
+                <file name="src/ShiJian/MingXiang.js"/>
+                <file name="src/ShiJian/DuanLian.js"/>
+                <file name="src/ShiJian/BaiFang.js"/>
+                <file name="src/ShiJian/GouMai.js"/>
                 <file name="src/MainScene.js"/>
                 <file name="src/QiangHuaScene.js"/>
                 <file name="src/WuPin/Jia.js"/>
