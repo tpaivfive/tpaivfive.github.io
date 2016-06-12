@@ -303,10 +303,11 @@
                 <file name="src/WuPin/Jia.js"/>
                 <file name="src/WuPin/Jian.js"/>
                 <file name="src/WuPin/Cheng.js"/>
+                <file name="src/WuPin/XinShouFaZhang.js"/>
+                <file name="src/WuPin/DiDangXiZhuang.js"/>
                 <file name="src/WuPin/Chu.js"/>
                 <file name="src/WuPin/PoFaZhang.js"/>
                 <file name="src/WuPin/CuBuMaYi.js"/>
-                <file name="src/KaPian/ZhiJian.js"/>
                 <file name="src/KaPian/HuoQiu.js"/>
                 <file name="src/KaPian/BingQiang.js"/>
                 <file name="src/KaPian/TianFa.js"/>
